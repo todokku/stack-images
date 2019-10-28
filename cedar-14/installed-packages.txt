@@ -698,6 +698,7 @@ libpython3-stdlib
 libpython3.4-minimal
 libpython3.4-stdlib
 libquadmath0
+librdkafka++1
 librdkafka-dev
 librdkafka1
 libreadline6

@@ -388,6 +388,9 @@ libpython3.5-stdlib
 libquadmath0
 librabbitmq-dev
 librabbitmq4
+librdkafka++1
+librdkafka-dev
+librdkafka1
 libreadline-dev
 libreadline6
 libreadline6-dev

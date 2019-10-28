@@ -56,6 +56,7 @@ apt-get install -y --force-yes --no-install-recommends \
     libpopt-dev \
     libpq-dev \
     librabbitmq-dev \
+    librdkafka-dev \
     libreadline-dev \
     librtmp-dev \
     libseccomp-dev \
